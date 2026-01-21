@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+bitsandbytes
+scipy
+sentencepiece
+fastapi
+uvicorn
+langgraph
+langchain-core
+pydantic
+requests

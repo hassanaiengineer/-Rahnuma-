@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (too large for GitHub)
+models/
+*.safetensors
+*.bin
+
+# HTML files (as requested)
+*.htm
+*.html
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Images (except for README assets if you want)
+# *.png
+# *.jpg
