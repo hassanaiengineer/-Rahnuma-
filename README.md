@@ -2,7 +2,17 @@
 
 Rahnuma is a production-quality Urdu AI assistant designed to help users with general conversations, text rewriting, and content summarization. It is built with a focus on **Responsible AI**, incorporating multi-stage safety guardrails to ensure it does not provide medical, legal, or religious advice.
 
-![Rahnuma AI Preview](./ui/1.png)
+![Rahnuma AI Preview](./rahnuma/ui/1.png)
+
+## 📺 Visual Demo
+
+### Video Walkthrough
+![Rahnuma Demo Video](./recorded_demo.webm)
+
+### UI Screenshots
+| Screen 2 | Screen 3 |
+| :---: | :---: |
+| ![Screen 2](./rahnuma/ui/2.png) | ![Screen 3](./rahnuma/ui/3.png) |
 
 ## 🚀 Key Features
 - **Native Urdu Fluency**: Optimized using the `Qalb-1.0-8B-Instruct` model for natural Pakistani Urdu.
