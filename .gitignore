@@ -26,4 +26,5 @@ models/
 # Images (except for README assets if you want)
 # *.png
 # *.jpg
+# Selective ignore for Rahnuma components
 rahnuma/app/
